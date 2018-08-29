@@ -1,2 +1,2 @@
 # BrainTumor-
-Apply threshold to MRI image.
+Applying threshold to MRI image.
